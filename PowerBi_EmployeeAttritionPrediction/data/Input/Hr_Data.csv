@@ -1,0 +1,6 @@
+EmpNo,Salary,Age,DistanceFromHome,Education,EnvironmentSatisfaction,JobInvolvement,JobLevel,JobSatisfaction,Department,NumCompaniesWorked,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+101,Medium,27,2,Graduate,1,2,EntryLevel,5,Engineering,2,5,NeedsImprovement,1,4,20,Poor,2,2,0,2
+102,Low,30,5,Graduate,2,3,Intermediate,6,Product,2,12,NeedsImprovement,2,8,40,Good,4,2,2,4
+103,Medium,35,20,PostGraduate,3,5,Experienced,3,Sales,3,4,Outstanding,2,12,30,Poor,2,1,1,2
+104,Low,40,25,PGDiploma,1,2,Management,7,Engineering,3,3,ExceedsExpectations,3,17,50,Fair,12,7,5,4
+105,High,29,1,Graduate,5,1,Intermediate,4,IT,1,9,MeetsExpectations,2,4,70,Poor,1,1,0,1
